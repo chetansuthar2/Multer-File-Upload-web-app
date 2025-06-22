@@ -133,20 +133,9 @@ multer-file-upload-app/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Issues
-
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/yourusername/multer-file-upload-app/issues).
 
 ## 📞 Contact
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/multer-file-upload-app](https://github.com/yourusername/multer-file-upload-app)
-
----
+Your Name - chetansuthar945@example.com
 
 ⭐ Star this repository if you found it helpful!
